@@ -1,7 +1,10 @@
 # Towers-of-Hanoi-Game 
  
-# Rules of the Game 
-# Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks. The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack.The game follows three rules: Only one disk can be moved at a time. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod. No disk may be placed on top of a smaller disk.
+Rules of the Game: 
+Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks. 
 
-# About the Game 
-# Through this game, I was able to implement my knowledge of stacks, object-oriented programming, and data structures in Python.
+The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack.
+
+The game follows three rules: Only one disk can be moved at a time. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod. No disk may be placed on top of a smaller disk.
+
+Through this game, I was able to implement my knowledge of stacks, object-oriented programming, and data structures in Python.
